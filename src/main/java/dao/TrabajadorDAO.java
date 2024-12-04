@@ -19,6 +19,16 @@ public class TrabajadorDAO {
         }
         return true;
 
+    //delete
+
+    //update
+
+    //leer
+
+    //leerTodos
+
+    //Buscar por edad
+
 
     }
 }
