@@ -2,6 +2,12 @@ package clases;
 
 import javax.persistence.Embeddable;
 
+/**
+ * Esta clase contiene los datos de un puesto de trabajo de un trabajador,
+ * es una clase embebida y siempre tiene que ir en un objeto de la clase trabajador.
+ *
+ * @author David Puerto Cuenca
+ */
 @Embeddable
 public class PuestoTrabajo {
 
